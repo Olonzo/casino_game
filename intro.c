@@ -33,7 +33,4 @@ int round1(){
     printf("Your current balance is %d",deposit);
 
     int bet1;
-    printf("%s,Enter the money to bet : ", name);
 
-    return 0;
-}
