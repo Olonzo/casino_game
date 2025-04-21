@@ -37,7 +37,7 @@ void login() {
 int main() 
 {
     //introduction to the game 
-
+    login();
     rules();
     printf("Welcome to the game!\n");
   
